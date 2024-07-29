@@ -2,4 +2,4 @@
 
 Primeiro Repositiorio
 
-Repositorio criando durante aula
+Repositorio criado durante aula
